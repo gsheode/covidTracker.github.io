@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\Cards",
+    "\\src\\components\\Chart"
   ],
-  "SelectedNode": "\\src\\components\\Cards.css",
+  "SelectedNode": "\\src\\serviceWorker.js",
   "PreviewInSolutionExplorer": false
 }
